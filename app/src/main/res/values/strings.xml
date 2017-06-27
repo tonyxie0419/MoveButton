@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoveButton</string>
+    <string name="move_by_animation_xml">Move By Animation(XML)</string>
+    <string name="move_by_animation_java">Move By Animation(Java)</string>
+    <string name="move_by_animator_xml">Move By animator(XML)</string>
+    <string name="move_by_animator_java">Move By Animator(Java)</string>
+</resources>
